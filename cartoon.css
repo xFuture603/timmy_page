@@ -82,3 +82,24 @@ body {
     border-radius: 50%;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 50%, 0 50%);
   }
+
+
+  .left-eye {
+    position: absolute;
+    background: black;
+    width: 15%;
+    height: 15%;
+    top: 32.5%;
+    left: 30%;
+    border-radius: 50%; 
+  }
+
+    .right-eye {
+      position: absolute;
+      background: white;
+      width: 15%;
+      height: 15%;
+      top: 32.5%;
+      right: 30%;
+      border-radius: 50%;
+    }
